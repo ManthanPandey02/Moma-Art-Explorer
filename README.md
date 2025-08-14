@@ -80,11 +80,3 @@ For **Diego Rivera** (Mexico) with a minimum year of **1900**, the earliest work
 
 ## 📜 License
 This project is released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
-
-## 🙌 Acknowledgments
-- Dataset: MoMA Collection  
-- Project brief inspired by Maven Analytics Guided Project
-
-_Last updated: {{YYYY-MM-DD}}_
